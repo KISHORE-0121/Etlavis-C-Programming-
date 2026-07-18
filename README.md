@@ -1,11 +1,14 @@
-<<<<<<< HEAD
-=======
-# I am Learning C in Etlavis 🚀
+# C Programming Learning Journey 🚀
 
-This repository contains my C programming practice while learning C in Etlavis.
+Welcome to my C Programming repository!
 
-## Contents
-- Basic C Programs
+This repository contains all the C programs, practice problems, and exercises that I solve while learning C programming at Etlavis.
+
+## 📚 Topics Covered
+
+- Basic Input & Output
+- Variables and Data Types
+- Operators
 - Conditional Statements
 - Loops
 - Functions
@@ -15,10 +18,41 @@ This repository contains my C programming practice while learning C in Etlavis.
 - Structures
 - File Handling
 - Pattern Programs
-- Practice Problems
+- Number Programs
+- Problem Solving
 
-## Objective
-To improve my C programming skills by practicing programs and learning new concepts every day.
+## 📂 Repository Structure
+
+```
+Basics/
+Loops/
+Functions/
+Arrays/
+Strings/
+Pointers/
+Structures/
+FileHandling/
+Patterns/
+PracticeProblems/
+```
+
+## 🎯 Goal
+
+- Build a strong foundation in C programming.
+- Improve problem-solving skills.
+- Write clean and efficient code.
+- Practice coding regularly.
+
+## 🛠️ Language
+
+- C
+- Compiler: GCC
+- Editor: Visual Studio Code
+
+## 📈 Progress
+
+I will keep updating this repository as I learn new concepts and solve more programming problems.
+
+⭐ Feel free to explore the programs and follow my learning journey!
 
 Happy Coding! 💻
->>>>>>> 31e6669b88cd3155c3965b037f044f7a89a6d323
