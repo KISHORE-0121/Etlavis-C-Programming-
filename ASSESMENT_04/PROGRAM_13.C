@@ -15,12 +15,13 @@ int main()
         c++;
         tem = tem / 10;
     }
+    int p =(int)round(pow(10, c - 1));
 
     last = a % 10;
-    first = a / (int)pow(10, c - 1);
-    middle = (a % (int)pow(10, c - 1)) / 10;
+    first = a / p;
+    middle = (a % p) / 10;
 
-    rev = last * (int)pow(10, c - 1) + middle * 10 + first;
+    rev = last * p + middle * 10 + first;
 
     printf("%d", rev);
 
